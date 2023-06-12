@@ -1,0 +1,5 @@
+{
+    "easy_limit_seconds": 3,
+    "good_limit_seconds": 5,
+    "hard_limit_seconds": 7	
+}
